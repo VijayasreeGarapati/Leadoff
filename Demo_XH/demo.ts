@@ -10,7 +10,7 @@ const dbName = "Video";
 
 // Initialize the Hume API client
 const client = new HumeClient({
-  apiKey: "QtM0o30ws0wKEciAebNfoNblGqnlKnEkwJXXxmi9H8owOqMG",
+  apiKey: "placeholder",
 });
 
 /**
